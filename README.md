@@ -1,4 +1,4 @@
-# springboot-example-collection 
+# springboot-example-collection
 
 ## TODO 
 
